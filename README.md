@@ -24,7 +24,7 @@ Built with vanilla JS + Supabase + Claude API.
 |---|---|
 | **[Glidance](https://amber.design/blv.html)** | Ecosystem mapping for blind + low-vision users — systems-level accessibility research |
 | **[HapTurn](https://amber.design/hapturn.html)** | Haptic interaction research + coded prototype |
-| **[Dayli](https://amber.design/dev-system.html)** | AI-powered qualitative research analysis system |
+| **[Dayli](https://github.com/dayliai/monorepo)** | AI-powered research analysis system — TypeScript monorepo, Supabase, Claude API |
 | **[Rewilded: Living Archive](https://ambergreydesign.github.io/rewilded-living-archive/)** | Trust, transparency, and emotional UX in conservation experiences |
 
 ---
@@ -33,7 +33,7 @@ Built with vanilla JS + Supabase + Claude API.
 
 Research · `Mixed-methods UX` `Usability testing` `Field observation` `Thematic analysis`  
 AI · `Claude API` `Custom GPT development` `LLM synthesis` `Prompt engineering`  
-Build · `HTML / CSS / JS` `Figma` `MaxQDA` `SPSS`
+Build · `HTML / CSS / JS` `TypeScript` `Figma` `MaxQDA` `SPSS`
 
 ---
 
